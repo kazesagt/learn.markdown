@@ -2,7 +2,7 @@
 
 _Ini hanya untuk belajar_
 
-##Belajar apa
+## Belajar apa
 - Bikin markdown
 - Bikin dokumentasi
 
